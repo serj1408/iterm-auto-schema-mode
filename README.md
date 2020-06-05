@@ -1,7 +1,7 @@
 # iTerm auto schema mode on MacOS
 How to:
 
-1. Download the script from GitHub
+1. Download the AutoDarkMode.py
 2. Copy the script to `$HOME/Library/ApplicationSupport/iTerm2/Scripts/`
 3. Go to iTerm2 > Scripts > AutoDarkMode.py
 4. If you will be prompted to download the Python runtime, do it.
